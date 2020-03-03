@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MySdk</string>
+    <string name="title_activity_sdk_main">SdkMainActivity</string>
 </resources>
